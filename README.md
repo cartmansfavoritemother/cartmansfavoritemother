@@ -3,8 +3,7 @@ im tryna get this fixed!!!
 	<br>
 </div>
 
-<p style="text-align: center;"><strong><img src="https://media.tenor.com/GcYNHuZeIBMAAAAi/cartman.gif" class="fr-fic fr-dib" width="103" height="94.5156"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/itsskbhere_?18" class="fr-fic fr-dib" width="158" height="158"><img src="https://dl.glitter-graphics.com/pub/410/410669c9hihbcsr5.gif " class="fr-fic fr-dib" width="150" height="20"><img src="https://external-media.spacehey.net/media/sLTqLmsH-l9ynZLk5rv-ldjeeuLPPIXHk6dPqvV5RCcQ=/https://i.im.ge/2023/08/14/j4tb40.i9otHr-ds53x4-49d1f957-ca46-44b9-af1e-191b3ead4792.jpg" class="fr-fic fr-dib" width="112" height="56"><img src="https://external-media.spacehey.net/media/sQTfVcRL0RroXupWSjXc2mKigaTuY9xRPoQaGPuOtWO8=/https://i.ibb.co/DKMrmQS/1608188zabmdwl4g2.gif" class="fr-fic fr-dib" width="165" height="28.875"></strong></p>
-
+<p style="text-align: center;"><strong><img src="https://media.tenor.com/GcYNHuZeIBMAAAAi/cartman.gif" class="fr-fic fr-dib" width="103" height="94.5156"><img src="https://dl.glitter-graphics.com/pub/410/410669c9hihbcsr5.gif " class="fr-fic fr-dib" width="150" height="20"><img src="https://external-media.spacehey.net/media/sLTqLmsH-l9ynZLk5rv-ldjeeuLPPIXHk6dPqvV5RCcQ=/https://i.im.ge/2023/08/14/j4tb40.i9otHr-ds53x4-49d1f957-ca46-44b9-af1e-191b3ead4792.jpg" class="fr-fic fr-dib" width="112" height="56"><img src="https://external-media.spacehey.net/media/sQTfVcRL0RroXupWSjXc2mKigaTuY9xRPoQaGPuOtWO8=/https://i.ibb.co/DKMrmQS/1608188zabmdwl4g2.gif" class="fr-fic fr-dib" width="165" height="28.875"></strong></p>
 <p style="text-align: center;"><strong><span style="font-size: 18px;"><u><span style="color: rgb(216, 37, 70);"><span style="background-color: rgb(248, 223, 1);">₊✩‧₊˚౨ৎ˚₊✩‧ wendi</span></span><span style="color: rgb(72, 179, 187);"><span style="background-color: rgb(248, 223, 1);">/kb₊✩‧₊˚౨ৎ˚₊✩‧₊</span></span></u></span></strong></p>
 
 <p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(72, 179, 187);">she/her (preferred, but all pronouns are ok)</span><span style="color: rgb(248, 223, 1);">&nbsp;. . 15 (16 on december 14 2026)</span></span></strong></p>
@@ -36,7 +35,3 @@ im tryna get this fixed!!!
 <p style="text-align: center;"><img src="https://i5.glitter-graphics.org/pub/425/425745zzonk64x44.jpg" class="fr-fic fr-dib" width="99" height="37.2344"><img src="https://external-media.spacehey.net/media/srJQdEGwlwGpvMLqYWPdch-Xt5qDw6TzsCwEafbe2XTY=/https://i.im.ge/2023/08/20/mwNpIx.goth-stan-stamp-by-crvyons-dc7qkjr-fullview.png" class="fr-fic fr-dii" width="99" height="56"><img src="https://external-media.spacehey.net/media/s2qLiYfbOdgIu1F8j9jZZZNHmA356Lz5Z7E093mSYBac=/https://i.im.ge/2023/08/20/mwNxgp.d1r04a9-db01c27f-df82-4e87-8e73-fd7fd098d43d.gif" class="fr-fic fr-dii" width="99" height="56"><img src="https://external-media.spacehey.net/media/sKqZ900yCsJL1Osg_hJ4zNq1BhqXcrlsWAiXFDnoA4Nw=/https://i.im.ge/2023/08/14/j4t18J.i5ndmG-d7v3xfz-1ba0098b-6650-4f4b-a22e-e1f0d15cfe92.gif" class="fr-fic fr-dib" width="99" height="56"></p>
 
 <p style="text-align: center;">
-	<br>
-</p>
-<!--------CREDIT DO NOT REMOVE----------->
-<div class="text-center mt-1"><a href="/ChaoticCoyote"><i class="far fa-code text-muted fa-sm tooltipster" title="Code by ChaoticCoyote"></i></a></div>
