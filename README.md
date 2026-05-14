@@ -1,16 +1,42 @@
-## Hi there 👋
+im tryna get this fixed!!!
+<div class="card rounded-0 border-0 col-lg-10 offset-lg-2 col-md-9 offset-md-3 p-0" style="overflow:hidden;position:fixed;bottom:0;top:0;left:0;z-index:-1; background-attachment: fixed; background-size: cover; background-position: center;">
+	<br>
+</div>
 
-<!--
-**cartmansfavoritemother/cartmansfavoritemother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align: center;"><strong><img src="https://media.tenor.com/GcYNHuZeIBMAAAAi/cartman.gif" class="fr-fic fr-dib" width="103" height="94.5156"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/itsskbhere_?18" class="fr-fic fr-dib" width="158" height="158"><img src="https://dl.glitter-graphics.com/pub/410/410669c9hihbcsr5.gif " class="fr-fic fr-dib" width="150" height="20"><img src="https://external-media.spacehey.net/media/sLTqLmsH-l9ynZLk5rv-ldjeeuLPPIXHk6dPqvV5RCcQ=/https://i.im.ge/2023/08/14/j4tb40.i9otHr-ds53x4-49d1f957-ca46-44b9-af1e-191b3ead4792.jpg" class="fr-fic fr-dib" width="112" height="56"><img src="https://external-media.spacehey.net/media/sQTfVcRL0RroXupWSjXc2mKigaTuY9xRPoQaGPuOtWO8=/https://i.ibb.co/DKMrmQS/1608188zabmdwl4g2.gif" class="fr-fic fr-dib" width="165" height="28.875"></strong></p>
 
-Here are some ideas to get you started:
+<p style="text-align: center;"><strong><span style="font-size: 18px;"><u><span style="color: rgb(216, 37, 70);"><span style="background-color: rgb(248, 223, 1);">₊✩‧₊˚౨ৎ˚₊✩‧ wendi</span></span><span style="color: rgb(72, 179, 187);"><span style="background-color: rgb(248, 223, 1);">/kb₊✩‧₊˚౨ৎ˚₊✩‧₊</span></span></u></span></strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(72, 179, 187);">she/her (preferred, but all pronouns are ok)</span><span style="color: rgb(248, 223, 1);">&nbsp;. . 15 (16 on december 14 2026)</span></span></strong></p>
+
+<p style="text-align: center;"><strong><span style="color: rgb(255, 255, 255);"><img src="https://adriansblinkiecollection.neocities.org/m2.gif" class="fr-fic fr-dii" width="150" height="20"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb6a400c-7d33-4d37-adee-1dd9d34857ab/diswt4t-149e9d89-1fc8-4b18-a102-db1681d18a70.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jYjZhNDAwYy03ZDMzLTRkMzctYWRlZS0xZGQ5ZDM0ODU3YWIvZGlzd3Q0dC0xNDllOWQ4OS0xZmM4LTRiMTgtYTEwMi1kYjE2ODFkMThhNzAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hkYMjZTDzMFQ4XUeXHTMsgvX1-rjlT4JAe4LjAEavw8" class="fr-fic fr-dii" width="150" height="20"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c3e2b5f-fd8a-4fab-9442-21db53a8af6b/d68b9c2-535931fe-9c5e-46a9-b31a-5863dbef1bda.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljM2UyYjVmLWZkOGEtNGZhYi05NDQyLTIxZGI1M2E4YWY2YlwvZDY4YjljMi01MzU5MzFmZS05YzVlLTQ2YTktYjMxYS01ODYzZGJlZjFiZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hsjmWgbWKuxNo-rZ5RVVmeUdJI8s-ytjVrRXoa0NDCo" class="fr-fic fr-dii" width="150" height="21.75"><img src="https://i10.glitter-graphics.org/pub/1559/1559210g1qhxqetz9.gif" class="fr-fic fr-dib" width="150" height="20"><img src="https://media.tenor.com/GcYNHuZeIBMAAAAi/cartman.gif" class="fr-fic fr-dib" width="92" height="84.4219"></span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">heyy, thanks for checking me out! im&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">wendi, kb, or kuiper.&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">i like listening to music, and i also love to draw. i listen to a little bit of the underground genre (jaydes, yuke, or xaviersobased hehe) and post-hardcore like escape the fate and pierce the veil.&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">im genderfluid, aromantic and bisexual, and a poc (ooh lala..)&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">i love comedy movies,&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">im buddhist, and a vegetarian.</span><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">&nbsp;i like 2000s stuff and cats and working with animals. i dont think its so obvious but i love cartman thats my baby boy my son &lt;3 he is just a bay-bay</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">&nbsp;my number one motto is to&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">just be yourself. no one knows you better than you.&nbsp;</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">i #supporttheactionsofericcartman</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">(just kidding dudes)</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(248, 223, 1); color: rgb(72, 179, 187); font-size: 14px;">⋆⭒˚.⋆₊‧.&deg;.⋆✮⋆.&deg;.‧₊⋆⭒˚｡⋆</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">tiktok:&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">@countdracularr</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">instagram:&nbsp;</span><span style="background-color: rgb(216, 37, 70); color: rgb(248, 223, 1); font-size: 14px;">@chocular_</span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70); color: rgb(72, 179, 187); font-size: 14px;">strawpage:</span><span style="color: rgb(248, 223, 1);"><span style="background-color: rgb(216, 37, 70); font-size: 14px;"><a href="https://chocular.straw.page/">https://chocular.straw.page/</a></span></span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(72, 179, 187);"><span style="color: rgb(216, 37, 70);">my fandoms include:&nbsp;</span><span style="color: rgb(248, 223, 1);">lil darkie, kittydog, dandy&#39;s world, cookie run kingdom, spider gang, the loud house, south park</span></span></strong></p>
+
+<p style="text-align: center;"><strong><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(248, 223, 1);">a little bit of my kins&nbsp;</span><span style="color: rgb(72, 179, 187);">(characters or other stuff i really resonate with):&nbsp;</span></span><span style="background-color: rgb(72, 179, 187);"><span style="color: rgb(248, 223, 1);">eric cartman</span></span><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(255, 255, 255);">&nbsp;</span><span style="color: rgb(248, 223, 1);">(my son i love him),</span><span style="color: rgb(255, 255, 255);">&nbsp;</span></span><span style="background-color: rgb(77, 125, 189);"><span style="color: rgb(238, 50, 75);">stan marsh</span></span><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(248, 223, 1);">,&nbsp;</span></span><span style="background-color: rgb(89, 197, 39);"><span style="color: rgb(252, 98, 15);">kyle brovflovski</span></span><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(248, 223, 1);">,&nbsp;</span></span><span style="background-color: rgb(253, 168, 65);"><span style="color: rgb(130, 20, 27);">alastor</span></span><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(248, 223, 1);">,&nbsp;</span></span><span style="background-color: rgb(60, 183, 255);"><span style="color: rgb(4, 72, 163);">shadow milk cookie</span></span><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(248, 223, 1);">,&nbsp;</span></span><span style="background-color: rgb(0, 0, 0);"><span style="color: rgb(191, 21, 21);">lil darkie&#39;s character</span><span style="color: rgb(248, 223, 1);">&nbsp;</span></span><span style="background-color: rgb(216, 37, 70);"><span style="color: rgb(248, 223, 1);">(also brahman as well),</span></span><span style="background-color: rgb(110, 41, 18);"><span style="color: rgb(130, 85, 25);">&nbsp;wendigos&nbsp;</span></span></strong></p>
+
+<p style="text-align: center;"><img src="https://media.tenor.com/zEQBquiaG74AAAAi/south-park.gif" class="fr-fic fr-dii" width="96" height="92.3906"></p>
+
+<p style="text-align: center;"><img src="https://i5.glitter-graphics.org/pub/425/425745zzonk64x44.jpg" class="fr-fic fr-dib" width="99" height="37.2344"><img src="https://external-media.spacehey.net/media/srJQdEGwlwGpvMLqYWPdch-Xt5qDw6TzsCwEafbe2XTY=/https://i.im.ge/2023/08/20/mwNpIx.goth-stan-stamp-by-crvyons-dc7qkjr-fullview.png" class="fr-fic fr-dii" width="99" height="56"><img src="https://external-media.spacehey.net/media/s2qLiYfbOdgIu1F8j9jZZZNHmA356Lz5Z7E093mSYBac=/https://i.im.ge/2023/08/20/mwNxgp.d1r04a9-db01c27f-df82-4e87-8e73-fd7fd098d43d.gif" class="fr-fic fr-dii" width="99" height="56"><img src="https://external-media.spacehey.net/media/sKqZ900yCsJL1Osg_hJ4zNq1BhqXcrlsWAiXFDnoA4Nw=/https://i.im.ge/2023/08/14/j4t18J.i5ndmG-d7v3xfz-1ba0098b-6650-4f4b-a22e-e1f0d15cfe92.gif" class="fr-fic fr-dib" width="99" height="56"></p>
+
+<p style="text-align: center;">
+	<br>
+</p>
+<!--------CREDIT DO NOT REMOVE----------->
+<div class="text-center mt-1"><a href="/ChaoticCoyote"><i class="far fa-code text-muted fa-sm tooltipster" title="Code by ChaoticCoyote"></i></a></div>
